@@ -1,0 +1,56 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://images5.alphacoders.com/132/1329624.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#container {
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    width: 90vw;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    gap: 20px;
+    
+}
+
+.cardContainer {
+    background-color: white;
+    height: 150px;
+    opacity: 0.9;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.card {
+    box-shadow: 2px 2px 2px ;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://cdn.icon-icons.com/icons2/1029/PNG/256/Luffys_flag_icon-icons.com_76118.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+
+}
+
+@media (min-width: 900px ) and ( max-width: 1021px){
+    table {
+        width: 80vw;
+        height: 90vh;
+    }
+}
+
+@media (min-width: 1022px){
+    table {
+        width: 60vw;
+    }
+}
