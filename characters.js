@@ -1,164 +1,162 @@
 export const data = [
   {
     nombre: 'Monkey D. Luffy',
-    name: 'Luffy',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/luffy.jpg',
   },
   {
     nombre: 'Roronoa Zoro',
-    
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/zoro.jpeg',
   },
   {
     nombre: 'Nami',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/nami.jpeg',
   },
   {
     nombre: 'Usopp',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/Usopp.jpg',
   },
   {
     nombre: 'Sanji',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/sanji.jpeg',
   },
   {
     nombre: 'Tony Tony Chopper',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/chopper.jpg',
   },
   {
     nombre: 'Nico Robin',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/nicoRobin.jpg',
   },
   {
     nombre: 'Franky',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/franky.jpeg',
   },
   {
     nombre: 'Brook',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/brook.jpg',
   },
   {
     nombre: 'Jinbe',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/jinbe.webp',
   },
   {
     nombre: 'Boa Hancock',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Boa.webp',
   },
   {
     nombre: 'Trafalgar Law',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/trafalgar.jpg',
   },
   {
     nombre: 'Eustass Kid',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Eustass.webp',
   },
   {
     nombre: 'Portgas D. Ace',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/portgass.jpg',
   },
   {
     nombre: 'Shanks',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/shanks.jpeg',
   },
   {
     nombre: 'Dracule Mihawk',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/dracule.webp',
   },
   {
     nombre: 'Crocodile',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Crocodile.webp',
   },
   {
     nombre: 'Donquixote Doflamingo',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Donquixote.webp',
   },
   {
     nombre: 'Charlotte Katakuri',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Charlotte.webp',
   },
   {
     nombre: 'Kozuki Oden',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Oden.webp',
   },
   {
     nombre: 'Monkey D. Luffy',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/luffy.jpg',
   },
   {
     nombre: 'Roronoa Zoro',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/zoro.jpeg',
   },
   {
     nombre: 'Nami',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/nami.jpeg',
   },
   {
     nombre: 'Usopp',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/Usopp.jpg',
   },
   {
     nombre: 'Sanji',
-    imagen: 'URL_de_imagen_aquí',
+    img: './images/sanji.jpeg',
   },
   {
     nombre: 'Tony Tony Chopper',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/chopper.jpg',
   },
   {
     nombre: 'Nico Robin',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/nicoRobin.jpg',
   },
   {
     nombre: 'Franky',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/franky.jpeg',
   },
   {
     nombre: 'Brook',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/brook.jpg',
   },
   {
     nombre: 'Jinbe',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/jinbe.webp',
   },
   {
     nombre: 'Boa Hancock',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Boa.webp',
   },
   {
     nombre: 'Trafalgar Law',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/trafalgar.jpg',
   },
   {
     nombre: 'Eustass Kid',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Eustass.webp',
   },
   {
     nombre: 'Portgas D. Ace',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/portgass.jpg',
   },
   {
     nombre: 'Shanks',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/shanks.jpeg',
   },
   {
     nombre: 'Dracule Mihawk',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/dracule.webp',
   },
   {
     nombre: 'Crocodile',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Crocodile.webp',
   },
   {
     nombre: 'Donquixote Doflamingo',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Donquixote.webp',
   },
   {
     nombre: 'Charlotte Katakuri',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Charlotte.webp',
   },
   {
     nombre: 'Kozuki Oden',
-    imagen: 'URL_de_imagen_aquí',
+    img: '/images/Oden.webp',
   }
 ]
