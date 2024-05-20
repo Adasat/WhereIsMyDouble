@@ -58,8 +58,8 @@ body {
 
 .card {
     height: 120px;
-    border: 1px solid whitesmoke;
     background-image: url('./images/flag.png');
+    filter: drop-shadow(0 0 0.45rem green);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,7 +68,8 @@ body {
 }
 
 .pulse:hover {
-    box-shadow: 2px 2px 2px white;
+    filter: drop-shadow(0 0 0.75rem white);
+
     cursor: pointer;
 }
 
